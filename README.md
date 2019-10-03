@@ -1,7 +1,7 @@
 # ✨ :us: OperationCode Frontend :us: ✨
 
 [![Build Status](https://travis-ci.org/OperationCode/operationcode_frontend.svg?branch=master)](https://travis-ci.org/OperationCode/operationcode_frontend)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-yellowgreen)]
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-yellowgreen)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/operation_code.svg?style=social&label=Follow&style=social)](https://twitter.com/operation_code)
